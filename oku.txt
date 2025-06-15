@@ -1,0 +1,1 @@
+3.haftada koşullu ifadelerde skor oluşturup kimin kazandığını gösteriyor.
